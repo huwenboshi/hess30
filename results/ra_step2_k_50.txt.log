@@ -1,0 +1,10 @@
+Command issued:
+	/u/project/pasaniuc/shihuwen/sumhet/analysis/hess/test/hess_step2_test.py
+	--prefix ../step1_result_raw_zscore/ra/ra_step1 --k 50 --out ra/ra_step2_k_50.txt
+Loaded 1703 loci in step 1 info file
+Loaded 1703 loci in step 1 eig file
+Loaded 1703 loci in step 1 prjsq file
+Using 851 windows to estimate lambda gc
+Using lambda gc: 1.20
+Using a maximum of 18 eigenvectors
+Estimated total h2g: 0.663 (0.0090)
